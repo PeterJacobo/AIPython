@@ -1,0 +1,7 @@
+name: aipython
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
